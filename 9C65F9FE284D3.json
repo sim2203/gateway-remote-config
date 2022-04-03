@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "9C65F9FE284D3",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 47.9531595607428,
+    "ref_longitude": 13.5783934593201,
+    "ref_altitude": 0,
+    "contact_email": "sim@simtronic.at",
+    "description": "test gateway"
+  }
+}
